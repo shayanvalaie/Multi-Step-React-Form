@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  font-size: 3.125rem;
+}
